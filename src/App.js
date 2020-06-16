@@ -4,7 +4,6 @@ import Dinner from './dinner';
 
 
 function App() {
-  const name = "Rashid"
   return (
   <div>
     <h2>Hello from Rashid</h2>
